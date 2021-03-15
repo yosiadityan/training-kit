@@ -11,15 +11,15 @@ leadingpath: ../../../
 GitHub offre un client desktop con interfaccia grafica per svolgere le principali funzioni sui repository. È inoltre presente una versione auto-aggiornante di Git da linea di comando, per gli scenari più avanzati.
 
 ### GitHub per Windows
-http://windows.github.com
+[windows.github.com](https://windows.github.com)
 
 ### GitHub per Mac
-http://mac.github.com
+[mac.github.com](https://mac.github.com)
 
 Le distribuzioni di Git per Linux e sistemi POSIX sono disponibili sul sito ufficiale di Git SCM.
 
 ### Git per tutte le piattaforme
-http://git-scm.com
+[git-scm.com](https://git-scm.com)
 
 ## Configurazione globale
 Configurazione dell'utente valida per tutti i repository
@@ -236,7 +236,7 @@ Unisci il branch remoto con quello locale
 
 ```$ git push [remote] [branch]```
 
-Carica tutti i cambiamenti al branch locale su GitHub
+Carica tutti i cambiamenti dal branch locale su GitHub
 
 
 ```$ git pull```
